@@ -20,6 +20,9 @@ public static void main(String[] args) throws IOException {
 	driver.get("https://www.snapdeal.com/");
 	driver.manage().window().maximize();
 	
+	driver.get("https://www.facebook.com/login/");
+	driver.get("https://www.flipkart.com/");
+	
 	
 	
 	
